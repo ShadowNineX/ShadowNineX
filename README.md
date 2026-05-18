@@ -64,4 +64,9 @@ I work on multiple projects at once.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+<img width="2660" height="1140" alt="ab6761860000eab1394af7a85d6058d88b9482b4" src="https://github.com/user-attachments/assets/8dada2de-b1b7-433a-a6a7-5ac1db77cd56" />
+
 </div>
