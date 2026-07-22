@@ -65,7 +65,7 @@ A colorful toolbox for when an idea starts taking shape.
 
 There's usually music nearby while I'm building.
 
-[![Listen along on Spotify](https://img.shields.io/badge/Spotify-listen_along-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3d8b37)](https://github.com/kittinan/spotify-github-profile)
 
 ![ShadowNine's recently played music](https://lastfm-recently-played.vercel.app/api?user=ShadowNineX&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
