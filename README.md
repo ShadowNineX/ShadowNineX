@@ -2,19 +2,26 @@
 
 # 𖤐 ShadowNine 𖤐
 
-![tenor](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
+![Tails leaning in to say hello](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
 
 
-I work on multiple projects at once.
+### ✨ Welcome to my little corner of GitHub
+
+I'm usually working on a few projects at once, following whatever feels
+interesting and turning ideas into things I can share.
+
+Pull up a chair, have a look around, and feel free to say hello. 🌙
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 What I build with
+
+A colorful toolbox for when an idea starts taking shape.
 
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
-      <b>Languages</b><br/><br/>
+      <b>🧡 Languages</b><br/><br/>
       <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/><br/>
@@ -27,7 +34,7 @@ I work on multiple projects at once.
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
     </td>
     <td align="center" valign="top" width="33%">
-      <b>Frameworks & Libraries</b><br/><br/>
+      <b>🌿 Frameworks & Libraries</b><br/><br/>
       <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/><br/>
@@ -37,7 +44,7 @@ I work on multiple projects at once.
       <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge"/>
     </td>
     <td align="center" valign="top" width="33%">
-      <b>Tools & Runtimes</b><br/><br/>
+      <b>🪄 Tools & Runtimes</b><br/><br/>
       <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/><br/>
       <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge"/>
@@ -46,27 +53,47 @@ I work on multiple projects at once.
 </table>
 
 ---
-```
-"The best way to predict the future is to build it yourself."
-— Nine
-```
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=3d8b37)](https://github.com/kittinan/spotify-github-profile) ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=ShadowNineX&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
+<p>
+  <i>“The best way to predict the future is to build it yourself.”</i><br/>
+  — Nine
+</p>
+
+---
+
+### 🎧 A little soundtrack
+
+There's usually music nearby while I'm building.
+
+[![Listen along on Spotify](https://img.shields.io/badge/Spotify-listen_along-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u)
+
+![ShadowNine's recently played music](https://lastfm-recently-played.vercel.app/api?user=ShadowNineX&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowNineX&bg_color=0d0a1e&color=e8721a&line=7b2fde&point=00c8d7&area=true&hide_border=true&area_color=3d1565)
+### 🌱 Things I've been growing
+
+Small steps add up. Here's what the garden has looked like lately.
+
+![ShadowNine's contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShadowNineX&bg_color=1f172a&color=f6d5b8&line=f28c8c&point=ffd166&area=true&hide_border=true&area_color=9b5de5)
 
 ---
+
+### 🐍 My contribution trail
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="An animated snake winding through ShadowNine's GitHub contributions" src="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
 
-<img width="2660" height="1140" alt="ab6761860000eab1394af7a85d6058d88b9482b4" src="https://github.com/user-attachments/assets/8dada2de-b1b7-433a-a6a7-5ac1db77cd56" />
+<p>
+  <b>Thanks for wandering through — I'm glad you stopped by.</b><br/>
+  Take care, and build something that feels like you. ✨
+</p>
+
+<img width="2660" height="1140" alt="A cozy inventor's workshop with robots, sketches, plants, and warm lights beneath a starry twilight sky" src="assets/warm-workshop-footer.jpg" />
 
 </div>
