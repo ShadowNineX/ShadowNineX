@@ -14,43 +14,40 @@ Pull up a chair, have a look around, and feel free to say hello. 🌙
 
 ---
 
+### 🌱 Things I’m building
+
+**[ShadowNine.dev](https://shadownine.dev)** ([source](https://github.com/ShadowNineX/website)) — A quiet personal Astro site for projects, notes, music, and small web experiments.
+
+---
 ### 🧰 What I build with
 
 A colorful toolbox for when an idea starts taking shape.
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <b>🧡 Languages</b><br/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <b>🌿 Frameworks & Libraries</b><br/><br/>
-      <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge"/>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <b>🪄 Tools & Runtimes</b><br/><br/>
-      <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge"/><br/>
-      <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+**🧡 Languages**<br/>
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=flat-square)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
+**🌿 Frameworks & Libraries**<br/>
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=flat-square)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?logo=discord&logoColor=white&style=flat-square)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white&style=flat-square)
+
+**🪄 Tools & Runtimes**<br/>
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white&style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square)
+![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=flat-square)
 
 ---
 
