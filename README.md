@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𖤐 ShadowNine 𖤐
+# 🖤 ShadowNine 💛
 
 ![Tails leaning in to say hello](https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a)
 
