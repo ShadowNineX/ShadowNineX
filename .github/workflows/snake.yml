@@ -1,4 +1,4 @@
-name: generate animation
+name: Grow the contribution trail
 
 on:
   # Refresh the contribution animation every Monday.
@@ -12,6 +12,12 @@ on:
   push:
     branches:
       - main
+    paths:
+      - .github/workflows/snake.yml
+
+concurrency:
+  group: contribution-trail
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -23,17 +29,17 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#a35720&color_dots=#fff3d9,#f5d999,#e8b85e,#cf8738,#a35720
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#ffc65b&color_dots=#302c3b,#6b503d,#a77543,#d59e54,#ffc65b
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@c0d7ff0487ee0415efb7f32dab10ea880330b1dd # v3.1.0
         with:
           target_branch: output
           build_dir: dist

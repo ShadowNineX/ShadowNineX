@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="title desc">
+  <title id="title">ShadowNine — a little workshop for good ideas.</title>
+  <desc id="desc">A small fox and lantern in honey and twilight colors, with twin looping trails inspired by Tails. The decorative motion settles after four seconds.</desc>
+  <style>
+    .ink { fill: #fff5df; }
+    .muted { fill: #d9cbb5; }
+    .honey { fill: #ffc65b; }
+    .trail { stroke-dasharray: 1200; stroke-dashoffset: 0; animation: trace 3.8s cubic-bezier(.16,1,.3,1) 1; }
+    .trail-second { animation-delay: .18s; }
+    @keyframes trace { from { stroke-dashoffset: 1200; } to { stroke-dashoffset: 0; } }
+    @media (prefers-reduced-motion: reduce) { .trail { animation: none; } }
+  </style>
+  <rect width="600" height="420" rx="22" fill="#211e2b"/>
+  <path d="M32 393H568" stroke="#514557"/>
+  <g transform="translate(390 291) scale(.55)" fill="none" stroke-linecap="round">
+    <ellipse rx="147" ry="91" transform="rotate(-35)" stroke="#514557"/>
+    <ellipse rx="147" ry="91" transform="rotate(35)" stroke="#514557"/>
+    <path class="trail" d="M-167 112C-80 128 156 47 112-64C78-154-61-84-38 7C-18 84 101 132 178 78" stroke="#ffc65b" stroke-width="22"/>
+    <path class="trail trail-second" d="M-154 139C-70 158 166 66 138-28C117-101 34-85 33-17C33 34 96 63 147 37" stroke="#ef9866" stroke-width="13"/>
+    <path d="M145 88Q163 84 178 78" stroke="#fff5df" stroke-width="22"/>
+    <path d="M127 43Q139 41 147 37" stroke="#fff5df" stroke-width="13"/>
+    <path d="M-4 -105V-135M-19 -120H11" stroke="#a8ccbd" stroke-width="3"/>
+    <circle cx="-160" cy="-18" r="5" fill="#ef9866"/>
+    <circle cx="165" cy="-100" r="3" fill="#a8ccbd"/>
+    <g transform="translate(-125 -66)" stroke="#fff5df" stroke-width="3" stroke-linejoin="round">
+      <path d="M0 10L-12-12L-17 19L0 35L17 19L12-12Z" fill="#211e2b"/>
+      <path d="M-13 20L0 26L13 20M0 26V32"/>
+      <path d="M-8 13H-6M6 13H8"/>
+      <path d="M35 9V3a7 7 0 0 1 14 0v6M32 10H52L49 39H35Z" fill="#211e2b"/>
+      <path d="M42 17V30" stroke="#ffc65b" stroke-width="5"/>
+      <path d="M30 40H54"/>
+    </g>
+  </g>
+  <g font-family="Trebuchet MS, Verdana, sans-serif">
+    <text x="32" y="108" font-size="66" font-weight="700" letter-spacing="-4" class="ink">Shadow<tspan class="honey">Nine</tspan></text>
+    <text x="35" y="163" font-size="27" class="ink">A little workshop</text>
+    <text x="35" y="201" font-size="27" class="ink">for good ideas.</text>
+    <text x="35" y="364" font-size="20" class="muted">Make yourself at home.</text>
+  </g>
+</svg>
