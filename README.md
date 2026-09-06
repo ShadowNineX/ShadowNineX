@@ -66,17 +66,17 @@ The projects with the most recent pushes. There's usually more than one thing in
 <!-- WORKBENCH:START -->
 
 **[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
-<sub>Last push: 2026-09-04 · Python</sub>
+<sub>Last push: 2026-09-06 · Python</sub>
+
+**[MCP-UAsset-Toolkit](https://github.com/ShadowNineX/MCP-UAsset-Toolkit)**  
+<sub>Last push: 2026-09-05 · C\#</sub>
+
+Automate UE reverse engineering using UAsset API and CUE4Parse
 
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-09-04 · Astro</sub>
 
 A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
-
-**[neodash-modding-guide](https://github.com/ShadowNineX/neodash-modding-guide)**  
-<sub>Last push: 2026-08-27 · CSS</sub>
-
-Community documentation for modding Neodash with UE4SS and Unreal Engine 4 Pak overrides.
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
