@@ -65,6 +65,11 @@ The projects with the most recent pushes. There's usually more than one thing in
 
 <!-- WORKBENCH:START -->
 
+**[website](https://github.com/ShadowNineX/website)**  
+<sub>Last push: 2026-09-06 · Astro</sub>
+
+A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
+
 **[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
 <sub>Last push: 2026-09-06 · Python</sub>
 
@@ -72,11 +77,6 @@ The projects with the most recent pushes. There's usually more than one thing in
 <sub>Last push: 2026-09-05 · C\#</sub>
 
 Automate UE reverse engineering using UAsset API and CUE4Parse
-
-**[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-09-04 · Astro</sub>
-
-A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
