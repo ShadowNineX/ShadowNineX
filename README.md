@@ -65,6 +65,11 @@ The projects with the most recent pushes. There's usually more than one thing in
 
 <!-- WORKBENCH:START -->
 
+**[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
+<sub>Last push: 2026-09-08 · TypeScript</sub>
+
+TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-09-06 · Astro</sub>
 
@@ -72,11 +77,6 @@ A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 **[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
 <sub>Last push: 2026-09-06 · Python</sub>
-
-**[MCP-UAsset-Toolkit](https://github.com/ShadowNineX/MCP-UAsset-Toolkit)**  
-<sub>Last push: 2026-09-05 · C\#</sub>
-
-Automate UE reverse engineering using UAsset API and CUE4Parse
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
