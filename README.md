@@ -65,15 +65,15 @@ The projects with the most recent pushes. There's usually more than one thing in
 
 <!-- WORKBENCH:START -->
 
+**[website](https://github.com/ShadowNineX/website)**  
+<sub>Last push: 2026-09-13 · Astro</sub>
+
+A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
+
 **[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
 <sub>Last push: 2026-09-08 · TypeScript</sub>
 
 TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
-
-**[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-09-06 · Astro</sub>
-
-A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 **[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
 <sub>Last push: 2026-09-06 · Python</sub>
