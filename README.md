@@ -136,11 +136,15 @@ A colorful toolbox for when an idea starts taking shape.
 
 A little music for late-night tinkering. Headphones on, world down.
 
+<div align="center">
+
 [![What ShadowNine is listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=novatorem&show_offline=false&background_color=211e2b&interchange=false&profanity=false&hide_remaster=false&bar_color=ffc65b&bar_color_cover=false)](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u)
 
 [![ShadowNine's recently played music](https://lastfm-recently-played.vercel.app/api?user=ShadowNineX&header_style=normal_stats&footer_style=wave&maxage=60&loved=true)](https://www.last.fm/user/ShadowNineX)
 
 [Spotify](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u) · [Last.fm](https://www.last.fm/user/ShadowNineX) · [My Spotify client](https://github.com/ShadowNineX/foxify) · [My Last.fm client](https://github.com/ShadowNineX/scrobbletail)
+
+</div>
 
 ---
 
