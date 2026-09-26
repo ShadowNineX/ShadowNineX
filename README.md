@@ -69,18 +69,18 @@ The projects with the most recent pushes. There's usually more than one thing in
 
 <!-- WORKBENCH:START -->
 
-**[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
-<sub>Last push: 2026-09-04 · Python</sub>
-
 **[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-09-04 · Astro</sub>
+<sub>Last push: 2026-09-24 · Astro</sub>
 
 A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
-**[neodash-modding-guide](https://github.com/ShadowNineX/neodash-modding-guide)**  
-<sub>Last push: 2026-08-27 · CSS</sub>
+**[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
+<sub>Last push: 2026-09-08 · TypeScript</sub>
 
-Community documentation for modding Neodash with UE4SS and Unreal Engine 4 Pak overrides.
+TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
+
+**[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
+<sub>Last push: 2026-09-06 · Python</sub>
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
