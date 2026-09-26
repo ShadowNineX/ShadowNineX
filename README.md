@@ -1,3 +1,22 @@
+<div align="center">
+
+<img src="assets/shadownine.png" width="520" alt="ShadowNine banner featuring Tails and the ShadowNine logo" />
+
+# Hey, I'm ShadowNine. 🖤 💛
+
+### Big ideas. Twin tails. A workbench full of possibilities.
+
+I build developer tools, game experiments, and little corners of the web.<br />
+Usually several at once. Usually with music. Always room for one more idea.
+
+<p align="center"><a href="https://shadownine.dev"><b>My little website</b></a> &nbsp; · &nbsp; <a href="#inventions-with-a-little-fox-energy">Explore my projects</a> &nbsp; · &nbsp; <a href="#the-workshop-radio">Listen along</a> &nbsp; · &nbsp; <a href="https://shadorux.dev/">My friend Shadorux</a> &nbsp; · &nbsp; <a href="https://github.com/Shadorux">GitHub</a></p>
+
+**Tails fan · Curious builder · Friend-shaped fox energy**
+
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/hello-dark-compact.svg" />
   <source media="(max-width: 600px)" srcset="assets/hello-light-compact.svg" />
@@ -5,73 +24,65 @@
   <img src="assets/hello-light.svg" width="1200" alt="ShadowNine — a little workshop for good ideas. A fox, a lantern, and two warm trails." />
 </picture>
 
-<p align="center">
-  <img src="assets/shadownine.png" width="1000" alt="ShadowNine banner featuring Tails and the ShadowNine logo" />
-</p>
-
-<p align="center">
-  <img src="assets/shadownine_shadorux.png" width="1000" alt="ShadowNine with Tails and Shadow" />
-</p>
-
-<p align="center">
-  <a href="https://shadownine.dev"><b>My little website</b></a> &nbsp; · &nbsp;
-  <a href="#things-ive-brought-to-life">Explore my projects</a> &nbsp; · &nbsp;
-  <a href="#a-little-soundtrack">Listen along</a> &nbsp; · &nbsp;
-  <a href="https://shadorux.dev/">My friend Shadorux</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Shadorux">GitHub</a>
-</p>
-
 <img align="right" width="100" src="https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a" alt="Tails leaning in to say hello" />
 
-# Hey, I'm ShadowNine.
+## Curiosity is the engine
 
-I'm usually working on a few projects at once, turning big, strange ideas into real things. Cozy tools with a technical spine. Little experiments that grow legs. A few sparks that haven't found their shape yet.
+The Tails part? Figuring out how something works, getting excited about what it *could* do, and building the slightly ridiculous idea anyway.
 
-**Tails fan. Inventive builder. Usually with music nearby.** 🖤 💛
+That might mean tools for Unreal assets, a music integration, or a web server running inside Portal 2. I like useful things with a little personality, and experiments that make me go, **“Okay, wait... what if?”**
 
-I like my corners of the internet colorful, kind, and welcoming. Pull up a chair, have a look around, and make yourself at home. :]
+Pull up a chair. The workshop is colorful, kind, and probably has three projects in pieces. :]
 
 <br clear="both" />
 
-## The ideas I'm growing
+## Inventions with a little fox energy
+
+A few things that made it off the sketchpad.
+
+### [MCP UAsset Toolkit](https://github.com/ShadowNineX/MCP-UAsset-Toolkit)
+**A toolbox for Unreal's inner workings.** Inspect and work with Unreal assets through MCP, using UAssetAPI and CUE4Parse.<br />
+<sub>C# · Unreal Engine · Model Context Protocol</sub>
+
+### [wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)
+**Give your desktop a little life.** TypeScript types, a Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers.<br />
+<sub>TypeScript · Vite · Wallpaper Engine</sub>
+
+### [openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)
+**Every workshop needs a soundtrack.** Spotify search, playlists, and playback controls for OpenClaw.<br />
+<sub>TypeScript · Spotify · OpenClaw</sub>
+
+### [A web server. Inside Portal 2.](https://github.com/ShadowNineX/p2ce-hono-web-server)
+**The “what if?” got a little out of hand.** A Hono-style web server experiment in AngelScript for Portal 2: Community Edition.<br />
+<sub>AngelScript · Portal 2: Community Edition</sub>
+
+### [ToSteamArtwork](https://github.com/ShadowNineX/ToSteamArtwork)
+**A proper fit for your profile.** Convert images, GIFs, and videos to Steam artwork dimensions.<br />
+<sub>TypeScript · Steam · Artwork tools</sub>
+
+**Also in the toolbox:** [Cheat Engine × MCP](https://github.com/CheatEngineNet/CheatEngine.Mcp) and [CheatEngine.SDK](https://github.com/CheatEngineNet/CheatEngine.SDK), part of **[C#eatEngine](https://github.com/CheatEngineNet)**.
+
+[**Browse all my repositories →**](https://github.com/ShadowNineX?tab=repositories)
+
+---
+
+## Still on the workbench
 
 <a href="https://github.com/ShadowNineLabs"><img align="right" width="160" src="assets/shadownine-labs.png" alt="ShadowNine Labs: a warm fox beneath a lantern, with twin tails forming an infinity loop" /></a>
 
+**[ShadowNine Labs](https://github.com/ShadowNineLabs)** is the wider workshop I'm building around my creations. A place for the ideas that need a little more room to grow.
+
 **Emon** is my long-term personal agent ecosystem. Private for now, and slowly taking shape.
 
-**[ShadowNine Labs](https://github.com/ShadowNineLabs)** is the wider workshop I'm building around my creations, with room for the ideas that come next.
+**[ShadowNine.dev](https://shadownine.dev)** is my own corner of the internet: projects, notes, music, and cozy experiments. [Peek at the source →](https://github.com/ShadowNineX/website)
 
-**[ShadowNine.dev](https://shadownine.dev)** is my personal corner of the web: projects, notes, music, and cozy experiments. [Peek at the source →](https://github.com/ShadowNineX/website)
-
-<sub>Also on the horizon: Clawfox and Chat++. More little sparks to follow.</sub>
+<sub>Also taking shape: Clawfox and Chat++. There is always another sketch on the desk.</sub>
 
 <br clear="both" />
 
-## Things I've brought to life
+### Fresh from the bench
 
-A few different corners of the same curious brain.
-
-**[Cheat Engine × MCP](https://github.com/ShadowNineX/ce-mcp)**  
-Bringing Cheat Engine workflows to AI tools through the Model Context Protocol.  
-<sub>C# · .NET · also building the [plugin SDK](https://github.com/ShadowNineX/CESDK)</sub>
-
-**[Little worlds for your desktop](https://github.com/ShadowNineX/wallpaper-engine)**  
-TypeScript types, a Vite plugin, and runtime helpers for Wallpaper Engine web wallpapers.  
-<sub>TypeScript · Vite · Wallpaper Engine</sub>
-
-**[Music, meet my toolbox](https://github.com/ShadowNineX/openclaw-spotify)**  
-Spotify search, playlists, and playback controls for OpenClaw.  
-<sub>TypeScript · Spotify · OpenClaw</sub>
-
-**[A web server. Inside Portal 2.](https://github.com/ShadowNineX/p2ce-hono-web-server)**  
-A Hono-style web server experiment in AngelScript for Portal 2: Community Edition.  
-<sub>AngelScript · Portal 2: Community Edition · a slightly unusual place for a web server</sub>
-
-[**Wander through all my projects →**](https://github.com/ShadowNineX?tab=repositories)
-
-## On the workbench
-
-The projects with the most recent pushes. There's usually more than one thing in pieces.
+The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
@@ -92,6 +103,17 @@ TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine
 
 <!-- WORKBENCH:END -->
 
+## The flight log
+
+A snapshot of the public workshop, refreshed daily. Each repository counts once under its primary language.
+
+<picture>
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="assets/flight-log-dark-compact.svg" />
+  <source media="(max-width: 600px)" srcset="assets/flight-log-light-compact.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/flight-log-dark.svg" />
+  <img src="assets/flight-log-light.svg" width="1000" alt="ShadowNine's public project count and primary languages; excludes forks, archived repositories, and this profile" />
+</picture>
+
 <details>
 <summary><b>Open the toolbox</b> — languages, frameworks, and the things I build with</summary>
 
@@ -110,9 +132,9 @@ A colorful toolbox for when an idea starts taking shape.
 
 </details>
 
-## A little soundtrack
+## The workshop radio
 
-There's usually music nearby while I'm building.
+A little music for late-night tinkering. Headphones on, world down.
 
 [![What ShadowNine is listening to on Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31wl2m3aqxcky555yhqi7epzau7u&cover_image=true&theme=novatorem&show_offline=false&background_color=211e2b&interchange=false&profanity=false&hide_remaster=false&bar_color=ffc65b&bar_color_cover=false)](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u)
 
@@ -120,9 +142,24 @@ There's usually music nearby while I'm building.
 
 [Spotify](https://open.spotify.com/user/31wl2m3aqxcky555yhqi7epzau7u) · [Last.fm](https://www.last.fm/user/ShadowNineX) · [My Spotify client](https://github.com/ShadowNineX/foxify) · [My Last.fm client](https://github.com/ShadowNineX/scrobbletail)
 
+---
+
+<div align="center">
+
+## A fox. A hedgehog. A lot of ideas.
+
+<img src="assets/shadownine_shadorux.png" width="760" alt="ShadowNine and Shadorux: Tails and Shadow, brothers" />
+
+**Every good workshop has room for a friend.**<br />
+My Tails energy, his Shadow energy. Somehow, the machines survive.
+
+[**Visit Shadorux's GitHub**](https://github.com/Shadorux) &nbsp; · &nbsp; [Shadorux.dev](https://shadorux.dev/)
+
+</div>
+
 ## Little steps, long trails
 
-Small steps add up. Here's the trail they've left behind.
+Even the big ideas start with one small thing that works.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShadowNineX/ShadowNineX/refs/heads/output/github-contribution-grid-snake-dark.svg" />
@@ -144,11 +181,13 @@ Small steps add up. Here's the trail they've left behind.
 
 <div align="center">
 
-*“The best way to predict the future is to build it yourself.”*  
+### Keep your curiosity. See where it takes you.
+
+*“The best way to predict the future is to build it yourself.”*<br />
 — ShadowNine
 
-**Thanks for wandering through — I'm glad you stopped by.**  
-Take care, and build something that feels like you. :]
+Thanks for stopping by my little workshop.<br />
+**Take care, be kind, and build something that feels like you.** :]
 
 [**The workshop continues at ShadowNine.dev →**](https://shadownine.dev)
 

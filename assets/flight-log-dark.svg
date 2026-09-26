@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
+  <title id="title">ShadowNine's flight log — 18 public projects</title>
+  <desc id="desc">Primary languages by repository count. TypeScript: 8; C++: 3; AngelScript: 1; Astro: 1; C#: 1; CSS: 1; Kotlin: 1; Python: 1; Vue: 1. Excludes forks, archived or disabled repositories, and the profile repository.</desc>
+  <rect width="1000" height="440" rx="22" fill="#211e2b"/>
+  <g font-family="Trebuchet MS, Verdana, sans-serif">
+    <text x="40" y="57" font-size="30" font-weight="700" fill="#fff5df">The flight log</text>
+    <text x="40" y="168" font-size="86" font-weight="700" fill="#ffc65b">18</text>
+    <text x="40" y="206" font-size="25" fill="#fff5df">public projects</text>
+    <g>
+      <title>TypeScript: 8 repositories</title>
+      <text x="370" y="94" font-size="21" fill="#fff5df">TypeScript</text>
+      <text x="960" y="94" text-anchor="end" font-size="20" fill="#d9cbb5">8</text>
+      <rect x="370" y="105" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="105" width="590.0" height="7" rx="3.5" fill="#ffc65b"/>
+    </g>
+<g>
+      <title>C++: 3 repositories</title>
+      <text x="370" y="141" font-size="21" fill="#fff5df">C++</text>
+      <text x="960" y="141" text-anchor="end" font-size="20" fill="#d9cbb5">3</text>
+      <rect x="370" y="152" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="152" width="221.3" height="7" rx="3.5" fill="#ef9866"/>
+    </g>
+<g>
+      <title>AngelScript: 1 repository</title>
+      <text x="370" y="188" font-size="21" fill="#fff5df">AngelScript</text>
+      <text x="960" y="188" text-anchor="end" font-size="20" fill="#d9cbb5">1</text>
+      <rect x="370" y="199" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="199" width="73.8" height="7" rx="3.5" fill="#a8ccbd"/>
+    </g>
+<g>
+      <title>Astro: 1 repository</title>
+      <text x="370" y="235" font-size="21" fill="#fff5df">Astro</text>
+      <text x="960" y="235" text-anchor="end" font-size="20" fill="#d9cbb5">1</text>
+      <rect x="370" y="246" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="246" width="73.8" height="7" rx="3.5" fill="#ffc65b"/>
+    </g>
+<g>
+      <title>C#: 1 repository</title>
+      <text x="370" y="282" font-size="21" fill="#fff5df">C#</text>
+      <text x="960" y="282" text-anchor="end" font-size="20" fill="#d9cbb5">1</text>
+      <rect x="370" y="293" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="293" width="73.8" height="7" rx="3.5" fill="#ef9866"/>
+    </g>
+<g>
+      <title>Other languages: 4 repositories</title>
+      <text x="370" y="329" font-size="21" fill="#fff5df">Other languages</text>
+      <text x="960" y="329" text-anchor="end" font-size="20" fill="#d9cbb5">4</text>
+      <rect x="370" y="340" width="590" height="7" rx="3.5" fill="#514557"/>
+      <rect x="370" y="340" width="295.0" height="7" rx="3.5" fill="#a8ccbd"/>
+    </g>
+    <text x="40" y="411" font-size="18" fill="#d9cbb5">Primary languages · public originals only</text>
+  </g>
+</svg>

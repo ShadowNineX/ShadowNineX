@@ -36,7 +36,7 @@ The SVG header uses the local font stack above, at 100 viewBox units on desktop 
 
 ## Layout
 
-One readable column: welcome, growing ideas, featured public work, automatically refreshed workbench, toolbox disclosure, music, contribution trail, lemon disclosure, and workshop close. The original Labs logo links to the organization; Emon stays plainly labeled private. The header selects compact assets at a viewport width of 600px, with dark-mode sources ordered before their light fallback.
+One readable column with a centered opening: the original ShadowNine/Tails logo leads, followed by a short introduction and project/music navigation. The animated welcome SVG opens the workshop, then comes featured public work, growing ideas, the automatically refreshed workbench, flight log, toolbox disclosure, music, the Tails-and-Shadow friendship artwork, contribution trail, lemon disclosure, and workshop close. Large graphics are spaced through the profile rather than stacked ahead of the introduction. The original Labs logo links to the organization; Emon stays plainly labeled private. Both SVG picture sets select compact assets at a viewport width of 600px, with dark-mode sources ordered before their light fallback.
 
 ## Shapes
 
@@ -46,9 +46,11 @@ Two curved trails are the main graphic gesture. Header corners have a 22-unit ra
 
 - Headers: four self-contained SVGs from `scripts/build-header.mjs`; a brief line reveal settles within four seconds and turns off under reduced motion.
 - Workbench: three public repositories with last-push dates and descriptions, using normal clickable text. The updater edits only its marked block.
+- Flight log: self-contained light/dark and compact SVGs, using the header palette and font stack. Shows eligible public project count and primary languages by repository count, with the five largest groups and an aggregated remainder. It shares the workbench's public-only filter and daily refresh; this is a cached snapshot, not a live status or lines-of-code measurement.
 - Toolbox and lemon drawer: native `details`/`summary`, keeping GitHub keyboard behavior.
 - Music: retained Spotify and Last.fm images plus direct listening links. Existing services own their internal appearance.
 - Contribution trail: warm light/dark palettes, generated into the `output` branch.
+- Character art: the original ShadowNine wordmark, Tails greeting, Labs logo, brothers artwork, and workshop footer are preserved intact. Tails-inspired copy emphasizes curiosity, invention, friendship, and music while keeping ShadowNine as the public identity.
 
 ## Do's and Don'ts
 

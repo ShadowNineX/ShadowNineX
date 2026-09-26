@@ -1,5 +1,6 @@
 import { readFile, writeFile, rename } from 'node:fs/promises';
 import { fileURLToPath, pathToFileURL } from 'node:url';
+import { summarizeProjects, renderFlightLog } from './build-flight-log.mjs';
 
 export const OWNER = 'ShadowNineX';
 export const START = '<!-- WORKBENCH:START -->';
@@ -12,13 +13,17 @@ export function escapeText(value) {
     .replace(/[\\`*_{}\[\]()#!|~]/g, '\\$&');
 }
 
-export function selectProjects(repos) {
+export function selectPublicProjects(repos) {
   if (!Array.isArray(repos)) throw new Error('Expected a repository array.');
   return repos.filter(repo => repo && repo.owner?.login?.toLowerCase() === OWNER.toLowerCase()
     && repo.private === false && !repo.fork && !repo.archived && !repo.disabled
     && typeof repo.name === 'string' && /^[\w.-]+$/.test(repo.name)
     && repo.name.toLowerCase() !== OWNER.toLowerCase()
-    && typeof repo.pushed_at === 'string' && Number.isFinite(Date.parse(repo.pushed_at)))
+    && typeof repo.pushed_at === 'string' && Number.isFinite(Date.parse(repo.pushed_at)));
+}
+
+export function selectProjects(repos) {
+  return selectPublicProjects(repos)
     .sort((a, b) => Date.parse(b.pushed_at) - Date.parse(a.pushed_at) || a.name.localeCompare(b.name))
     .slice(0, 3);
 }
@@ -64,13 +69,28 @@ export async function fetchRepositories(fetcher = fetch, token = process.env.GIT
 async function main() {
   const readmePath = fileURLToPath(new URL('../README.md', import.meta.url));
   const original = await readFile(readmePath, 'utf8');
-  const updated = replaceWorkbench(original, renderWorkbench(selectProjects(await fetchRepositories())));
-  if (updated === original) return console.log('Workbench is already current.');
+  const repos = await fetchRepositories();
+  const updated = replaceWorkbench(original, renderWorkbench(selectProjects(repos)));
+  const summary = summarizeProjects(selectPublicProjects(repos));
+  const outputs = [];
+  for (const dark of [false, true]) {
+    for (const compact of [false, true]) {
+      const name = `flight-log-${dark ? 'dark' : 'light'}${compact ? '-compact' : ''}.svg`;
+      outputs.push([fileURLToPath(new URL(`../assets/${name}`, import.meta.url)), renderFlightLog(summary, { dark, compact })]);
+    }
+  }
+  if (updated !== original) outputs.push([readmePath, updated]);
   // A failed network call never reaches this write; replace the file atomically.
-  const tempPath = `${readmePath}.tmp`;
-  await writeFile(tempPath, updated, 'utf8');
-  await rename(tempPath, readmePath);
-  console.log('Updated the public workbench.');
+  for (const [path, content] of outputs) {
+    let previous;
+    try { previous = await readFile(path, 'utf8'); }
+    catch (error) { if (error.code !== 'ENOENT') throw error; }
+    if (previous === content) continue;
+    const tempPath = `${path}.tmp`;
+    await writeFile(tempPath, content, 'utf8');
+    await rename(tempPath, path);
+  }
+  console.log('Public workbench and flight log are current.');
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
