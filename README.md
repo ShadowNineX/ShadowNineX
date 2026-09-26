@@ -6,13 +6,19 @@
 </picture>
 
 <p align="center">
+  <img src="assets/shadownine.png" width="1000" alt="ShadowNine banner featuring Tails and the ShadowNine logo" />
+</p>
+
+<p align="center">
   <img src="assets/shadownine_shadorux.png" width="1000" alt="ShadowNine with Tails and Shadow" />
 </p>
 
 <p align="center">
   <a href="https://shadownine.dev"><b>My little website</b></a> &nbsp; · &nbsp;
   <a href="#things-ive-brought-to-life">Explore my projects</a> &nbsp; · &nbsp;
-  <a href="#a-little-soundtrack">Listen along</a>
+  <a href="#a-little-soundtrack">Listen along</a> &nbsp; · &nbsp;
+  <a href="https://shadorux.dev/">My friend Shadorux</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Shadorux">GitHub</a>
 </p>
 
 <img align="right" width="100" src="https://github.com/user-attachments/assets/7f73ae7e-f638-4474-822a-86d09232ce1a" alt="Tails leaning in to say hello" />
