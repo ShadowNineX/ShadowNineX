@@ -15,24 +15,28 @@ Usually several at once. Usually with music. Always room for one more idea.
 
 </div>
 
-> It's time to face your fear<br />
-> 'Cause when your time has come and gone<br />
-> I'll be the one to carry on (Carry on)<br />
-> And you can throw me to the wolves (Throw me to the wolves)<br />
-> 'Cause I am undefeatable<br />
-> I'm hanging on to the other side<br />
-> I won't give up 'til the end of me<br />
-> I'm what you get when the stars collide<br />
-> Now face it, you're just an enemy
->
-> Welcome to the mind of a different kind<br />
-> We've been growing slowly<br />
-> Think I'm on eleven, but I'm on a nine<br />
-> Guess you don't really know me<br />
-> Running from the past is a losing game<br />
-> It never brings you glory<br />
-> Been down this road before<br />
-> Already know this story
+<div align="center">
+
+It's time to face your fear<br />
+'Cause when your time has come and gone<br />
+I'll be the one to carry on (Carry on)<br />
+And you can throw me to the wolves (Throw me to the wolves)<br />
+'Cause I am undefeatable<br />
+I'm hanging on to the other side<br />
+I won't give up 'til the end of me<br />
+I'm what you get when the stars collide<br />
+Now face it, you're just an enemy
+
+Welcome to the mind of a different kind<br />
+We've been growing slowly<br />
+Think I'm on eleven, but I'm on a nine<br />
+Guess you don't really know me<br />
+Running from the past is a losing game<br />
+It never brings you glory<br />
+Been down this road before<br />
+Already know this story
+
+</div>
 
 ---
 
