@@ -109,6 +109,11 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[vscode-eta](https://github.com/ShadowNineX/vscode-eta)**  
+<sub>Last push: 2026-10-10 · TypeScript</sub>
+
+VS Code language support for Eta templates with syntax highlighting, snippets, diagnostics, completions, hover docs, and TypeScript-powered template intelligence.
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-10-04 · Astro</sub>
 
@@ -118,9 +123,6 @@ A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 <sub>Last push: 2026-09-08 · TypeScript</sub>
 
 TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
-
-**[skill-gardener](https://github.com/ShadowNineX/skill-gardener)**  
-<sub>Last push: 2026-09-06 · Python</sub>
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
