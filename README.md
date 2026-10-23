@@ -109,6 +109,11 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
+<sub>Last push: 2026-10-22 · TypeScript</sub>
+
+TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-10-18 · Astro</sub>
 
@@ -118,11 +123,6 @@ A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 <sub>Last push: 2026-10-16 · C\#</sub>
 
 Automate UE reverse engineering using UAsset API and CUE4Parse
-
-**[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
-<sub>Last push: 2026-10-16 · TypeScript</sub>
-
-TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
