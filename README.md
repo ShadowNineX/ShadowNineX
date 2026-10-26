@@ -109,15 +109,15 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[website](https://github.com/ShadowNineX/website)**  
+<sub>Last push: 2026-10-25 · Astro</sub>
+
+A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
+
 **[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
 <sub>Last push: 2026-10-23 · TypeScript</sub>
 
 TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
-
-**[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-10-18 · Astro</sub>
-
-A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 **[MCP-UAsset-Toolkit](https://github.com/ShadowNineX/MCP-UAsset-Toolkit)**  
 <sub>Last push: 2026-10-16 · C\#</sub>
