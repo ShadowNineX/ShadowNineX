@@ -109,6 +109,11 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)**  
+<sub>Last push: 2026-10-30 · TypeScript</sub>
+
+Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-10-25 · Astro</sub>
 
@@ -118,11 +123,6 @@ A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 <sub>Last push: 2026-10-23 · TypeScript</sub>
 
 TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
-
-**[MCP-UAsset-Toolkit](https://github.com/ShadowNineX/MCP-UAsset-Toolkit)**  
-<sub>Last push: 2026-10-16 · C\#</sub>
-
-Automate UE reverse engineering using UAsset API and CUE4Parse
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
