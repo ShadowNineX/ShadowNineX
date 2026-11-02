@@ -109,15 +109,15 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[website](https://github.com/ShadowNineX/website)**  
+<sub>Last push: 2026-11-01 · Astro</sub>
+
+A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
+
 **[openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)**  
 <sub>Last push: 2026-10-30 · TypeScript</sub>
 
 Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
-
-**[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-10-25 · Astro</sub>
-
-A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 **[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
 <sub>Last push: 2026-10-23 · TypeScript</sub>
