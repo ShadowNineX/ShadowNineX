@@ -109,20 +109,20 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[vscode-eta](https://github.com/ShadowNineX/vscode-eta)**  
+<sub>Last push: 2026-11-04 · TypeScript</sub>
+
+VS Code language support for Eta templates with syntax highlighting, snippets, diagnostics, completions, hover docs, and TypeScript-powered template intelligence.
+
+**[openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)**  
+<sub>Last push: 2026-11-04 · TypeScript</sub>
+
+Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-11-02 · Astro</sub>
 
 A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
-
-**[openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)**  
-<sub>Last push: 2026-10-30 · TypeScript</sub>
-
-Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
-
-**[wallpaper-engine](https://github.com/ShadowNineX/wallpaper-engine)**  
-<sub>Last push: 2026-10-23 · TypeScript</sub>
-
-TypeScript types, Vite plugin, and runtime helpers for building Wallpaper Engine web wallpapers
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
