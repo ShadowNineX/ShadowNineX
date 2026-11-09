@@ -109,6 +109,11 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[website](https://github.com/ShadowNineX/website)**  
+<sub>Last push: 2026-11-08 · Astro</sub>
+
+A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
+
 **[vscode-eta](https://github.com/ShadowNineX/vscode-eta)**  
 <sub>Last push: 2026-11-04 · TypeScript</sub>
 
@@ -118,11 +123,6 @@ VS Code language support for Eta templates with syntax highlighting, snippets, d
 <sub>Last push: 2026-11-04 · TypeScript</sub>
 
 Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
-
-**[website](https://github.com/ShadowNineX/website)**  
-<sub>Last push: 2026-11-02 · Astro</sub>
-
-A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 
