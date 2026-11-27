@@ -109,6 +109,9 @@ The three public projects with the most recent pushes.
 
 <!-- WORKBENCH:START -->
 
+**[Fletcher](https://github.com/ShadowNineX/Fletcher)**  
+<sub>Last push: 2026-11-26 · JavaScript</sub>
+
 **[website](https://github.com/ShadowNineX/website)**  
 <sub>Last push: 2026-11-25 · Astro</sub>
 
@@ -118,11 +121,6 @@ A quiet Astro site for ShadowNine's projects, notes, and cozy web experiments.
 <sub>Last push: 2026-11-04 · TypeScript</sub>
 
 VS Code language support for Eta templates with syntax highlighting, snippets, diagnostics, completions, hover docs, and TypeScript-powered template intelligence.
-
-**[openclaw-spotify](https://github.com/ShadowNineX/openclaw-spotify)**  
-<sub>Last push: 2026-11-04 · TypeScript</sub>
-
-Spotify integration plugin for OpenClaw with catalog search, playlist management, and playback controls
 
 <sub>From my public repositories · refreshed daily · ordered by last push</sub>
 

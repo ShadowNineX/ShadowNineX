@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="440" viewBox="0 0 1000 440" role="img" aria-labelledby="title desc">
-  <title id="title">ShadowNine's flight log — 17 public projects</title>
-  <desc id="desc">Primary languages by repository count. TypeScript: 7; C++: 3; AngelScript: 1; Astro: 1; C#: 1; CSS: 1; Kotlin: 1; Python: 1; Vue: 1. Excludes forks, archived or disabled repositories, and the profile repository.</desc>
+  <title id="title">ShadowNine's flight log — 18 public projects</title>
+  <desc id="desc">Primary languages by repository count. TypeScript: 7; C++: 3; AngelScript: 1; Astro: 1; C#: 1; CSS: 1; JavaScript: 1; Kotlin: 1; Python: 1; Vue: 1. Excludes forks, archived or disabled repositories, and the profile repository.</desc>
   <rect width="1000" height="440" rx="22" fill="#211e2b"/>
   <g font-family="Trebuchet MS, Verdana, sans-serif">
     <text x="40" y="57" font-size="30" font-weight="700" fill="#fff5df">The flight log</text>
-    <text x="40" y="168" font-size="86" font-weight="700" fill="#ffc65b">17</text>
+    <text x="40" y="168" font-size="86" font-weight="700" fill="#ffc65b">18</text>
     <text x="40" y="206" font-size="25" fill="#fff5df">public projects</text>
     <g>
       <title>TypeScript: 7 repositories</title>
@@ -42,11 +42,11 @@
       <rect x="370" y="293" width="84.3" height="7" rx="3.5" fill="#ef9866"/>
     </g>
 <g>
-      <title>Other languages: 4 repositories</title>
+      <title>Other languages: 5 repositories</title>
       <text x="370" y="329" font-size="21" fill="#fff5df">Other languages</text>
-      <text x="960" y="329" text-anchor="end" font-size="20" fill="#d9cbb5">4</text>
+      <text x="960" y="329" text-anchor="end" font-size="20" fill="#d9cbb5">5</text>
       <rect x="370" y="340" width="590" height="7" rx="3.5" fill="#514557"/>
-      <rect x="370" y="340" width="337.1" height="7" rx="3.5" fill="#a8ccbd"/>
+      <rect x="370" y="340" width="421.4" height="7" rx="3.5" fill="#a8ccbd"/>
     </g>
     <text x="40" y="411" font-size="18" fill="#d9cbb5">Primary languages · public originals only</text>
   </g>
